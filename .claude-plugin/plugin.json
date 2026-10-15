@@ -1,0 +1,9 @@
+{
+  "name": "soda-mv-workflow",
+  "description": "動漫角色 MV 製作工作流：分鏡對歌詞、定畫風、生圖審圖、AI 動畫（即夢／MiniMax H3）、2.5D 合成與雙語字幕、1080p60 出片。",
+  "version": "0.1.0",
+  "author": { "name": "Soda" },
+  "repository": "https://github.com/cOkieeman/soda-mv-workflow",
+  "license": "MIT",
+  "keywords": ["mv", "anime", "comfyui", "seedance", "video", "subtitles"]
+}

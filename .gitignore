@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+out/
+renders/
+clips/
+src/
+*.mp3
+*.mp4

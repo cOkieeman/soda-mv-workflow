@@ -1,0 +1,11 @@
+{
+  "name": "soda-mv-workflow",
+  "owner": { "name": "Soda" },
+  "plugins": [
+    {
+      "name": "soda-mv-workflow",
+      "source": "./",
+      "description": "動漫角色 MV 製作工作流（分鏡、生圖審圖、AI 動畫、2.5D 合成、雙語字幕、出片）"
+    }
+  ]
+}
